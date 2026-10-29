@@ -1,4 +1,4 @@
-<p style="font-size: 24px; font-weight: bold;">Análise de Veículos Elétricos: Previsão de Valor de Revenda e Inferência Causal</p>
+<p style="font-size: 48px; font-weight: bold;">Análise de Veículos Elétricos: Previsão de Valor de Revenda e Inferência Causal</p>
 
 Visão Geral do ProjetoEste projeto tem como objetivo prever o valor de revenda de veículos elétricos (VEs) em dólares (USD) utilizando um pipeline de machine learning altamente parcimonioso e embasado em inferência causal. Em vez de adotar uma abordagem "caixa-preta" e jogar todas as variáveis disponíveis em um algoritmo, este projeto começa com um Grafo Acíclico Direcionado (DAG) para mapear a realidade econômica do mercado de VEs, prevenindo viés de variável omitida e isolando os verdadeiros impulsionadores da depreciação.
 
